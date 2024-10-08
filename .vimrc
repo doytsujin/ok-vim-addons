@@ -30,10 +30,10 @@ Plug 'pangloss/vim-javascript'          " JavaScript syntax
 Plug 'leafgarland/typescript-vim'       " TypeScript syntax
 
 " Go Development
-Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' } " Go development plugin
+" Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' } " Go development plugin
 
 " Java
-Plug 'neoclide/coc.nvim', {'branch': 'release'}  " Language Server for Java and others
+" Plug 'neoclide/coc.nvim', {'branch': 'release'}  " Language Server for Java and others
 
 " Autoformatting
 Plug 'Chiel92/vim-autoformat'           " Autoformat code
