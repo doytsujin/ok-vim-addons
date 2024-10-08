@@ -41,7 +41,7 @@ Plug 'dense-analysis/ale'               " Asynchronous linting and fixing
 Plug 'sheerun/vim-polyglot'             " Language pack for multiple languages
 
 " Kubernetes, Helm, and YAML
-Plug 'udalov/k8s-vim'                   " Kubernetes manifests
+" Plug 'udalov/k8s-vim'                   " Kubernetes manifests
 Plug 'towolf/vim-helm'                  " Helm chart support
 Plug 'stephpy/vim-yaml'                 " YAML support
 
@@ -60,10 +60,10 @@ Plug 'pangloss/vim-javascript'          " JavaScript syntax
 Plug 'leafgarland/typescript-vim'       " TypeScript syntax
 
 " Go Development
-Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' } " Go development plugin
+" Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' } " Go development plugin
 
 " Java
-Plug 'neoclide/coc.nvim', {'branch': 'release'}  " Language Server for Java and others
+" Plug 'neoclide/coc.nvim', {'branch': 'release'}  " Language Server for Java and others
 
 " Autoformatting
 Plug 'Chiel92/vim-autoformat'           " Autoformat code
